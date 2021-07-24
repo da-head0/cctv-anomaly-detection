@@ -1,13 +1,13 @@
-0, Abuse
-1, Arrest
-2, Arson
-3, Assault
-4, Road Accident
-5, Burglary
-6, Explosion
-7, Fighting
-8, Robbery
-9, Shooting
-10, Stealing
-11, Shoplifting
-12, Vandalism
+0, 'Abuse'
+1, 'Arrest'
+2, 'Arson'
+3, 'Assault'
+4, 'Road Accident'
+5, 'Burglary'
+6, 'Explosion'
+7, 'Fighting'
+8, 'Robbery'
+9, 'Shooting'
+10, 'Stealing'
+11, 'Shoplifting'
+12, 'Vandalism'
